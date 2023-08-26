@@ -24,3 +24,7 @@ of math from an historical perspective.
 Professor: Jay Cummings
 e-mail: <Jay.Cummings@csus.edu>
 Office Hours: Monday 10-11:30, Thursday 12-1:20, by appointment
+
+## Homework
+
+- [ ] Homework 1: Due Sep 13 at 11:59pm
