@@ -22,7 +22,9 @@ of math from an historical perspective.
 ## Course Information
 
 Professor: Jay Cummings
+
 e-mail: <Jay.Cummings@csus.edu>
+
 Office Hours: Monday 10-11:30, Thursday 12-1:20, by appointment
 
 ## Homework
