@@ -11,11 +11,27 @@
             "id": "98b402a79221b118",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "perusall-readings/chapter_01_number_systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ef509131ccf417f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "perusall-readings/chapter_01_number_systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "perusall-readings/chapter_01_number_systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "perusall-readings/chapter_01_number_systems.md"
+              }
             }
           }
         ]
@@ -138,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4b92aecdd389f53",
+  "active": "3ef509131ccf417f",
   "lastOpenFiles": [
+    "perusall-readings/chapter_01_number_systems.md",
     "_obsidian_attachments",
     "New folder",
     "_inbox_obsidian_notes",
@@ -157,6 +178,6 @@
     "_templates/hub-notes.md",
     "_templates/daily-notes.md",
     "_templates",
-    "perusall_readings"
+    "perusall-readings"
   ]
 }
