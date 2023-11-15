@@ -15,7 +15,7 @@ approved by the instructor.
 
 Throughout the course, students work with the mathematics as it was done at
 the time, and develop an ability to reason inductively and formulate and prove
-general statements. They study approcahes used by various societies to real
+general statements. They study approaches used by various societies to real
 problems, and they develop an appreciation of the connections among the areas
 of math from an historical perspective.
 
